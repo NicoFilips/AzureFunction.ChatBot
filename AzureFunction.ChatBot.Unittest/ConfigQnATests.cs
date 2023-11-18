@@ -1,3 +1,4 @@
+using AzureFunction.ChatBot.Helper;
 using FluentAssertions;
 using NUnit.Framework;
 

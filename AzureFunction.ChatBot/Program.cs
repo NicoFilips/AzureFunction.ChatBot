@@ -2,6 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 
 using AzureFunction.ChatBot;
+using AzureFunction.ChatBot.Helper;
 
 public class Program
 {
