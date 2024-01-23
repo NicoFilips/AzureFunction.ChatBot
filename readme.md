@@ -7,6 +7,9 @@
   <p>Source: DALL-E 3</p>
 </blockquote>
 
+ [![Build](https://github.com/NicoFilips/AzureFunction.ChatBot/actions/workflows/dotnet.yml/badge.svg)](https://github.com/NicoFilips/ByteBrusher/actions/workflows/dotnet.yml)
+ [![publish ChatBot to Azure Functions](https://github.com/NicoFilips/AzureFunction.ChatBot/actions/workflows/deployment.yml/badge.svg)](https://github.com/NicoFilips/ByteBrusher/actions/workflows/deployment.yml)
+
 <h1 align="center">🤖 Simple Azure Function ChatBot - Documentation 🚀</h1>
 
 <h2 align="center">Overview</h2>
